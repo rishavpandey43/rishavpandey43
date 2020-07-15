@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+## I'm Rishav Pandey — a Full Stack Web and Native App Developer, Competitive Programmer, Data Science Enthusiast, and an Open Source Contributor, who's in love with </>.
 
 <!--
 **rishavpandey43/rishavpandey43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
