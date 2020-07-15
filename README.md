@@ -8,15 +8,15 @@
 
 ## 📫 How to reach me:
 
-[![Linkedin](./assets/images/linkedin.svg)](https://linkedin.com/in/rishavpandey43/)
+[<img src="./assets/images/linkedin.svg" alt="Linkedin"/>](https://linkedin.com/in/rishavpandey43/)
 &nbsp;&nbsp;
-[![Twitter](./assets/images/twitter.svg)](https://twitter.com/rishavpandey43)
+[<img src="./assets/images/twitter.svg" alt="Twitter"/>](https://twitter.com/rishavpandey43)
 &nbsp;&nbsp;
-[![Facebook](./assets/images/facebook.svg)](https://facebook.com/rishavpandey43)
+[<img src="./assets/images/facebook.svg" alt="Facebook"/>](https://facebook.com/rishavpandey43)
 &nbsp;&nbsp;
-[![Instagram](./assets/images/instagram.svg)](https://www.instagram.com/rishavpandey43/)
+[<img src="./assets/images/instagram.svg" alt="Instagram"/>](https://www.instagram.com/rishavpandey43/)
 &nbsp;&nbsp;
-[![Whatsapp](./assets/images/whatsapp.svg)](https://wa.me/919771578320?text=Hello%20Rishav.%0A%0A%0AI%20hope%20you%27re%20doing%20great.%0A%0AI%20got%20your%20number%20through%20your%20website%20and%20was%20interested%20to%20talk%20with%20you.)
+[<img src="./assets/images/whatsapp.svg" alt="Whatsapp"/>](https://wa.me/919771578320?text=Hello%20Rishav.%0A%0A%0AI%20hope%20you%27re%20doing%20great.%0A%0AI%20got%20your%20number%20through%20your%20website%20and%20was%20interested%20to%20talk%20with%20you.)
 
 <!--
 **rishavpandey43/rishavpandey43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
