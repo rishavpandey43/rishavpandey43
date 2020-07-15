@@ -1,6 +1,22 @@
-# Hi there 👋
+# Hi there, I'm Rishav Pandey 👋
 
-## I'm Rishav Pandey — a Full Stack Web and Native App Developer, Competitive Programmer, Data Science Enthusiast, and an Open Source Contributor, who's in love with </>.
+## A Self Taught Full Stack Web and Native App Developer, Competitive Programmer, Data Science Enthusiast, and an Open Source Contributor, who's in love with `</>`.
+
+## 📈 My GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=rishavpandey43&show_icons=true&title_color=f07&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+## 📫 How to reach me:
+
+[![Linkedin](./assets/images/linkedin.svg)](https://linkedin.com/in/rishavpandey43/)
+&nbsp;&nbsp;
+[![Twitter](./assets/images/twitter.svg)](https://twitter.com/rishavpandey43)
+&nbsp;&nbsp;
+[![Facebook](./assets/images/facebook.svg)](https://facebook.com/rishavpandey43)
+&nbsp;&nbsp;
+[![Instagram](./assets/images/instagram.svg)](https://www.instagram.com/rishavpandey43/)
+&nbsp;&nbsp;
+[![Whatsapp](./assets/images/whatsapp.svg)](https://wa.me/919771578320?text=Hello%20Rishav.%0A%0A%0AI%20hope%20you%27re%20doing%20great.%0A%0AI%20got%20your%20number%20through%20your%20website%20and%20was%20interested%20to%20talk%20with%20you.)
 
 <!--
 **rishavpandey43/rishavpandey43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
