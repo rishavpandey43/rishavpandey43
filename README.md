@@ -1,12 +1,20 @@
-# Hi there, I'm Rishav Pandey 👋
+## Hi there, I'm Rishav Pandey - Full Stack Web & Native App Developer 👋
 
-## A Self Taught Full Stack Web and Native App Developer, Competitive Programmer, Data Science Enthusiast, and an Open Source Contributor, who's in love with `</>`.
+# A Self-Taught Learner, Explorer, Developer and a Free Man!
+
+- 🔭 I’m currently working at [Skuad](https://www.skuad.io/)!
+
+- 🌱 I’m currently learning everything 🤣
+
+- 👯 I’m looking to start writing blogs and technical write-ups.
+
+- ⚡ Fun fact: I love to ride bike, roam around the globe and read books.
 
 ## 📈 My GitHub Stats:
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rishavpandey43&show_icons=true&title_color=f07&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rishavpandey43&count_private=true&show_icons=true&title_color=f07&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## 📫 How to reach me:
+## 📫 Connect with me:
 
 [![Linkedin](https://raw.githubusercontent.com/rishavpandey43/rishavpandey43/master/assets/images/linkedin.svg)](https://linkedin.com/in/rishavpandey43/)
 &nbsp;&nbsp;
