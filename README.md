@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to start writing blogs and technical write-ups.
 
-- ⚡ Fun fact: I love to ride bike, roam around the globe and read books.
+- ⚡ Fun fact: I love to ride bike, roam around the globe, explore new things and read books.
 
 ## 📈 My GitHub Stats:
 
