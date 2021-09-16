@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Skuad](https://www.skuad.io/)!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 
 - 👯 I’m looking to start writing blogs and technical write-ups.
 
